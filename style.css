@@ -37,20 +37,20 @@ a{
 
 h1{
     color: white;
-    font-size: 80px;
-    padding-left: 5cm;
+    font-size: 90px;
+    padding-left: 6cm;
 }
 #one{
     color: white;
-    padding-left: 5cm;
-    font-size: 20px;  
-    padding-top: 8cm;
+    padding-left: 6cm;
+    font-size: 25px;  
+    padding-top: 7cm;
 }
 
 #two{
     color: white;
-    padding-left: 5cm;
-    font-size: 20px;  
+    padding-left: 6cm;
+    font-size: 25px;  
 }
 
 h1, #one, #two{
@@ -74,7 +74,7 @@ section{
 h4{
     float: left;
      color: white; 
-     margin-left: 0.5cm; 
+     margin-left: 1cm; 
      font-size: 20px; 
      margin-top: -18px;
          
