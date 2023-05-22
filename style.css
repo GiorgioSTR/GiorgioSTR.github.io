@@ -37,20 +37,20 @@ a{
 
 h1{
     color: white;
-    font-size: 100px;
+    font-size: 80px;
     padding-left: 5cm;
 }
 #one{
     color: white;
     padding-left: 5cm;
-    font-size: 30px;  
+    font-size: 20px;  
     padding-top: 8cm;
 }
 
 #two{
     color: white;
     padding-left: 5cm;
-    font-size: 30px;  
+    font-size: 20px;  
 }
 
 h1, #one, #two{
