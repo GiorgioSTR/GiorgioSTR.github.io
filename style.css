@@ -32,7 +32,7 @@ a{
     padding: 5px;
     text-decoration: none;
     color: rgb(255, 255, 255);
-    font-size: 25px;
+    font-size: 20px;
 }
 
 h1{
@@ -75,13 +75,13 @@ h4{
     float: left;
      color: white; 
      margin-left: 3cm; 
-     font-size: 25px; 
+     font-size: 20px; 
      margin-top: -30px;
          
 }
 img{
-    height: 1cm; 
-    width: 2cm; 
+    height: 0.5cm; 
+    width: 1cm; 
     float: left;
     margin-left: -7.2cm; 
     margin-top: -0.8cm;
